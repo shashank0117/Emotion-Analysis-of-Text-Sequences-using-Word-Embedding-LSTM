@@ -8,3 +8,6 @@ This project performs emotion analysis on different statements to analyse the em
 1. Keras
 2. Numpy
 3. Pandas
+
+# To run
+1. master.ipynb
